@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Links <br>
 
-[https://carousel-uber.firebaseapp.com/](https://carousel-uber.firebaseapp.com/)
-[https://carousel-uber.firebaseapp.com/1](https://carousel-uber.firebaseapp.com/1)
-[https://carousel-uber.firebaseapp.com/2](https://carousel-uber.firebaseapp.com/2)
+[https://carousel-uber.firebaseapp.com/](https://carousel-uber.firebaseapp.com/)<br>
+[https://carousel-uber.firebaseapp.com/1](https://carousel-uber.firebaseapp.com/1)<br>
+[https://carousel-uber.firebaseapp.com/2](https://carousel-uber.firebaseapp.com/2)<br>
 
 ## Available Scripts
 
