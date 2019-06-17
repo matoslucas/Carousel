@@ -81,6 +81,11 @@
       }
     }
   }
+
+  span {
+    font-size: 24px;
+    color: #666;
+  }
 }
 
 .banner-user,
@@ -136,10 +141,7 @@ li {
     font-size: 12px;
     margin-bottom: 12px;
   }
-  p {
-    line-height: 24px;
-    margin-bottom: 16px;
-  }
+  
 }
 
 .icon-wrapper {
