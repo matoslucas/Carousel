@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.1.1",
     "antd": "^3.19.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "rc-banner-anim": "^2.2.8",
     "rc-queue-anim": "^1.6.12",
     "rc-tween-one": "^2.4.1",
